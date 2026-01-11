@@ -1,1 +1,15 @@
+install python and open command prompt 
+install pandas ,matplotlib , numpy  
+
+py --version 3.9.2 
+py -m pip --version 
+py -m pip install numpy 
+py -m pip install pandas 
+py -m pip install matplotlib
+
+need internet 
+
+
+
+
 
